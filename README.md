@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi, I'm Anthony Sander Setiawan
 
 <!--
+
+Halo :D, my name Anthony Sander Setiawan. I student at Bina Nusantara University, my major is Game Application and Technology.
+
 **astranot09/astranot09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
