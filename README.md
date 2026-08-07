@@ -15,7 +15,7 @@ I like learning new things :D, and i hope i can do it :D
 
  | Chemistry Time |
  | :---: |
- | <img src="https://github.com/user-attachments/assets/74707ab4-760d-4619-bc0f-5d091ad57692" width="100%"> |
+ | <img width="1600" height="993" alt="image" src="https://github.com/user-attachments/assets/01e6da4b-5bdb-4569-a1d8-8d9cf7890d1a" /> |
  | Chemistry Time is a game where players shoot bullets to match chemical elements or compounds with their correct chemical names |
  | (https://astranot09.itch.io/chemistry-time)|
  | (https://github.com/astranot09/Chemistry-Time) |
