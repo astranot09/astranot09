@@ -5,6 +5,16 @@ my itch.io = https://astranot09.itch.io/ \n
 my email = anthonysander2006@gmail.com / anthony.setiawan002@binus.ac.id \n
 \n
 I like learning new things :D, and i hope i can do it :D
+
+| Arcade 2078 | Chemistry Time |
+
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/1c456c17-2a5d-4fd6-a7c1-3b42f0c3109e" width="100%"> | <img src="https://github.com/user-attachments/assets/74707ab4-760d-4619-bc0f-5d091ad57692" width="100%"> |
+| Lomba GameToday 2025, dimana setiap hari player harus menyelesaikan minigame | Game pribadi (tugas) dimana player diharuskan menembak nama unsur/senyawa kimia |
+| (https://triugames.itch.io/arcade-2078) | (https://astranot09.itch.io/chemistry-time)|
+| (https://github.com/KrapuRED/ARCADE-2078) | (https://github.com/astranot09/Chemistry-Time) |
+
+
 <!--
 
 
