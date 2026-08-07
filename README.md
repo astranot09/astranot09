@@ -1,9 +1,9 @@
 ## Hi, I'm Anthony Sander Setiawan
 
-Halo :D, my name Anthony Sander Setiawan. I student at Bina Nusantara University, my major is Game Application and Technology.\n
-my itch.io = https://astranot09.itch.io/ \n
-my email = anthonysander2006@gmail.com / anthony.setiawan002@binus.ac.id \n
-\n
+Halo :D, my name Anthony Sander Setiawan. I student at Bina Nusantara University, my major is Game Application and Technology.<br>
+my itch.io = https://astranot09.itch.io/<br>
+my email = anthonysander2006@gmail.com / anthony.setiawan002@binus.ac.id<br>
+
 I like learning new things :D, and i hope i can do it :D
 
 | Arcade 2078 |
