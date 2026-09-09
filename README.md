@@ -6,13 +6,17 @@ my email = anthonysander2006@gmail.com / anthony.setiawan002@binus.ac.id<br>
 
 I like learning new things :D, and i hope i can do it :D
 
-| Arcade 2078 | | Chemistry Time |
-| :---: | | :---: |
-| <img src="https://github.com/user-attachments/assets/1c456c17-2a5d-4fd6-a7c1-3b42f0c3109e" width="100%"> | | <img width="1600" height="993" alt="image" src="https://github.com/user-attachments/assets/01e6da4b-5bdb-4569-a1d8-8d9cf7890d1a" /> |
-| Arcade 2078, is a game where player need to complete minigame every day to survive | | Chemistry Time is a game where players shoot bullets to match chemical elements or compounds with their correct chemical names |
-| (https://triugames.itch.io/arcade-2078) | | (https://astranot09.itch.io/chemistry-time)|
-| (https://github.com/KrapuRED/ARCADE-2078) | | (https://github.com/astranot09/Chemistry-Time) |
+| Arcade 2078 | Chemistry Time |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/1c456c17-2a5d-4fd6-a7c1-3b42f0c3109e" width="100%"> | <img src="https://github.com/user-attachments/assets/01e6da4b-5bdb-4569-a1d8-8d9cf7890d1a" width="100%"> |
+| Arcade 2078 is a game where players need to complete minigames every day to survive. | Chemistry Time is a game where players shoot bullets to match chemical elements/compounds. |
+| [Itch.io Page](https://triugames.itch.io/arcade-2078) \| [GitHub](https://github.com/KrapuRED/ARCADE-2078) | [Itch.io Page](https://astranot09.itch.io/chemistry-time) \| [GitHub](https://github.com/astranot09/Chemistry-Time) |
 
+| Chitraya | Kana King |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/1f41fa40-9e07-4211-8615-f8de5151bbe3" width="100%"> | <img src="https://github.com/user-attachments/assets/05087ff7-0d4c-4594-94fb-c5b137588f86" width="100%"> |
+| Platformer game where players can make their own platforms. | Serious game about Katakana & Hiragana with Vampire Survivors-like gameplay. (Collab GAT x JPC) |
+| [Itch.io Page](https://astranot09.itch.io/chitraya) \| [GitHub](https://github.com/astranot09/Chitraya) | [GitHub](https://github.com/KrapuRED/Kana-King) |
 
 
 
