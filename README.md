@@ -4,7 +4,7 @@ Halo :D, my name Anthony Sander Setiawan. I student at Bina Nusantara University
 my itch.io = https://astranot09.itch.io/<br>
 my email = anthonysander2006@gmail.com / anthony.setiawan002@binus.ac.id<br>
 
-I like learning new things :D, and i hope i can do it :D
+I like learning new things :D, and i hope i can do it :D<br>
 Do your best and let God do the rest
 
 | Arcade 2078 | Chemistry Time |
