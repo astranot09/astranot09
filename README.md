@@ -19,7 +19,7 @@ Do your best and let God do the rest
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/1f41fa40-9e07-4211-8615-f8de5151bbe3" width="100%"> | <img src="https://github.com/user-attachments/assets/05087ff7-0d4c-4594-94fb-c5b137588f86" width="100%"> |
 | Platformer game where players can make their own platforms. | Serious game about Katakana & Hiragana with Vampire Survivors-like gameplay. (Collab GAT x JPC) |
-| [Itch.io Page](https://astranot09.itch.io/chitraya) \| [GitHub](https://github.com/astranot09/Chitraya) | [GitHub](https://github.com/KrapuRED/Kana-King) |
+| [Itch.io Page](https://astranot09.itch.io/chitraya) \| [GitHub](https://github.com/astranot09/Chitraya) | [Itch.io Page](https://astranot09.itch.io/kana-king) \| [GitHub](https://github.com/KrapuRED/Kana-King) |
 
 
 
