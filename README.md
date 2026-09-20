@@ -2,7 +2,6 @@
 
 Halo :D, my name Anthony Sander Setiawan. I am student at Bina Nusantara University, my major is Game Application and Technology.<br>
 my itch.io = https://astranot09.itch.io/<br>
-my github = https://github.com/astranot09/<br>
 my email = anthonysander2006@gmail.com / anthony.setiawan002@binus.ac.id<br>
 my number = 085864665141
 
