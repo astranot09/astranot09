@@ -13,7 +13,7 @@ Do your best and let God do the rest<br>
 | <img src="https://github.com/user-attachments/assets/1c456c17-2a5d-4fd6-a7c1-3b42f0c3109e" width="100%"> | <img src="https://github.com/user-attachments/assets/01e6da4b-5bdb-4569-a1d8-8d9cf7890d1a" width="100%"> |
 | Arcade 2078 is a game where players need to complete minigames every day to survive. |Players must shoot targets containing the correct chemical symbol/formula (elements or compounds) matching the chemical name prompt shown on the screen.|
 | [Itch.io Page](https://triugames.itch.io/arcade-2078) \| [GitHub](https://github.com/KrapuRED/ARCADE-2078) | [Itch.io Page](https://astranot09.itch.io/chemistry-time) \| [GitHub](https://github.com/astranot09/Chemistry-Time) |
-| -- days | 14 days |
+| -- days | 17 days |
 
 | Flint's No Waste Policy | Kana King |
 | :---: | :---: |
