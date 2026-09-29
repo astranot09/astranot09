@@ -8,7 +8,7 @@ my number = 085864665141
 I like learning new things :D, and i hope i can do it :D<br>
 Do your best and let God do the rest<br>
 
-| RAE : Smart City Command | Chemistry Time |
+| RAE : Smart City Command (WIP)| Chemistry Time |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/1c456c17-2a5d-4fd6-a7c1-3b42f0c3109e" width="100%"> | <video src="https://github.com/user-attachments/assets/019cf896-ea2a-4be7-9a54-c9b00f0cd7d5" width="320" height="180" style="object-fit: cover;" autoplay loop muted playsinline></video> |
 | A serious game, where player play as RAE, monitor CCTV feeds and sensor data, and determine emergency levels across multiple island regions. Upgrade your equipment to boost sensor accuracy and spot false alarms with ease. |A Educational game, where players must shoot targets containing the correct chemical symbol/formula (elements or compounds) matching the chemical name prompt shown on the screen.|
