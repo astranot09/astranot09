@@ -27,8 +27,7 @@ Do your best and let God do the rest<br>
 ### My 3D Project As Programmer <br>
 | Cuman 3D Game (WIP)|
 | :---: |
-|<img width="360" height="180" alt="gif3d2 (1)" src="https://github.com/user-attachments/assets/0d011175-ee78-4fe3-9ada-242a2fcb1097"/>
-|
+|<img width="360" height="180" alt="gif3d2 (1)" src="https://github.com/user-attachments/assets/0d011175-ee78-4fe3-9ada-242a2fcb1097"/>|
 | Just try making 3D game. |
 | [GitHub](https://github.com/astranot09/Cuman-3D-Game) |
 | 14 days |
