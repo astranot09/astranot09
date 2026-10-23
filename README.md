@@ -27,9 +27,10 @@ Do your best and let God do the rest<br>
 ### My 3D Project As Programmer <br>
 | Cuman 3D Game (WIP)|
 | :---: |
-| <video src="https://github.com/user-attachments/assets/ca63a929-c7cb-4e63-af12-452b8b5539a3" width="320" height="180" style="object-fit: cover;" autoplay loop muted playsinline></video>|
-| A cozy, casual management game where players run a restaurant by designing menus and managing food inventory to satisfy customer demand while minimizing food waste. |
-| [Itch.io Page](https://astranot09.itch.io/kana-king) \| [GitHub](https://github.com/KrapuRED/Kana-King) |
+|<img width="360" height="180" alt="gif3d2 (1)" src="https://github.com/user-attachments/assets/0d011175-ee78-4fe3-9ada-242a2fcb1097"/>
+|
+| Just try making 3D game. |
+| [GitHub](https://github.com/astranot09/Cuman-3D-Game) |
 | 14 days |
 
 
